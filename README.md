@@ -60,10 +60,8 @@ https://drive.google.com/drive/folders/1XAr9LgEnjmii7vjM5PRVMFrQ7XslTVoa?usp=dri
 
 👉 Add your output screenshots below:
 
-![Output 1](add-image-link-here)
-![Output 2](add-image-link-here)
+![Output 2](output.png)
 
-(You can upload images in GitHub and paste their links here)
 
 ---
 
