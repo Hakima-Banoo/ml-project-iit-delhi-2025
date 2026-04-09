@@ -42,7 +42,7 @@ https://drive.google.com/drive/folders/1XAr9LgEnjmii7vjM5PRVMFrQ7XslTVoa?usp=dri
 
 * Machine learning model trained and evaluated on the dataset
 * Achieved meaningful insights and predictions
-* (👉 Add your accuracy / metrics here)
+![](AnomaliesAndnormals.png)
 
 ---
 
@@ -62,6 +62,7 @@ https://drive.google.com/drive/folders/1XAr9LgEnjmii7vjM5PRVMFrQ7XslTVoa?usp=dri
 
 ![Anomalies and Nomrals](AnomaliesAndnormals.png)
 ![Plottings](AnomalyPlotting.png)
+![Plottings](NormalPlotting.png)
 
 ---
 
