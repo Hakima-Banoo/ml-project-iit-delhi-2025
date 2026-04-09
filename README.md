@@ -62,7 +62,7 @@ https://drive.google.com/drive/folders/1XAr9LgEnjmii7vjM5PRVMFrQ7XslTVoa?usp=dri
 
 ![Anomalies and Nomrals](AnomaliesAndnormals.png)
 ![Plottings](AnomalyPlotting.png)
-![Plottings](NormalPlotting.png)
+![Plottings](NomalPlotting.png)
 
 ---
 
