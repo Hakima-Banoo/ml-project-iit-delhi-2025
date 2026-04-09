@@ -58,10 +58,10 @@ https://drive.google.com/drive/folders/1XAr9LgEnjmii7vjM5PRVMFrQ7XslTVoa?usp=dri
 
 ## 📸 Output / Screenshots
 
-👉 Add your output screenshots below:
+![Output ](output.png)
 
-![Output 2](output.png)
-
+![Anomalies and Nomrals](AnomaliesAndnormals.png)
+![Plottings](AnomalyPlotting.png)
 
 ---
 
